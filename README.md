@@ -5,3 +5,6 @@ There have been repos before this, but at that time I just wanted to upload thos
 
 Learning it from Apna College.
 
+<b>Just learned this works like HTML as well.I can use HTML tags as well here.</b>
+
+<i>Author - Preet Dungarwal</i>
