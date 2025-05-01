@@ -7,4 +7,4 @@ Learning it from Apna College.
 
 <b>Just learned this works like HTML as well.I can use HTML tags as well here.</b>
 
-<i>Author - Preet Dungarwal</i>
+<i>Author - Preet </i>
